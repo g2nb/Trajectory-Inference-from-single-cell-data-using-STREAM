@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "STREAM is a trajectory inference method that can accurately reconstruct complex developmental trajectories from gene expression or epigenomic data.",
+    "image": "Legacy",
+    "name": "Trajectory Inference from single-cell data using STREAM"
+}
